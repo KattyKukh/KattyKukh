@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KattyKukh
-- 🌱 I’m currently learning Netology.ru
+- 🌱 I’m learning Netology.ru
 
 
 <!---
